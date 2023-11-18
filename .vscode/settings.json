@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": -0.3,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Monaco",
+    "editor.lineHeight": 22,
+    "cSpell.enabled": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "/Applications/Firefox Developer Edition.app"
+}
